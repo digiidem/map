@@ -1,8 +1,9 @@
 # BlockChain based map tracking
 
 Todos:
-leaflet integration
-admin panel
-add locations
-blockchain integration
+
+- leaflet integration
+- admin panel
+- add locations
+- blockchain integration
 - add contract
